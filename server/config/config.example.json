@@ -1,0 +1,6 @@
+{
+  "env": "example",
+  "splyt": {
+    "baseURL": "<Base URL Here>"
+  }
+}

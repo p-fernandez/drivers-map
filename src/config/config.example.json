@@ -1,0 +1,11 @@
+{
+  "env": "development",
+  "backend": {
+    "baseURL": "<Backend URL here>"
+  },
+  "gmaps": {
+    "apiKey": "<Google Maps API Key here>",
+    "latitude": "<Latitude for the center of GMaps>",
+    "longitude": "<Longitude for the center of GMaps>"
+  }
+}
