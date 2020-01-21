@@ -1,0 +1,11 @@
+{
+  "env": "development",
+  "backend": {
+    "baseURL": "http://localhost:8080"
+  },
+  "gmaps": {
+    "apiKey": "AIzaSyA2n7hH6W6cHvZdRX2kBmL0b21ev6WWjag",
+    "latitude": "51.5049375",
+    "longitude": "-0.0964509"
+  }
+}

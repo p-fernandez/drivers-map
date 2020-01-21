@@ -1,0 +1,7 @@
+{
+  "env": "production",
+  "port": "49160",
+  "splyt": {
+    "baseURL": "https://qa-interview-test.qa.splytech.io"
+  }
+}
